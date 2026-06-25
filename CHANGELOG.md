@@ -1,4 +1,4 @@
-# KPatch Next Module
+# XinovaSU KPatch Module
 
 ## Changelog
 

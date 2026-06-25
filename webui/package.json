@@ -1,7 +1,7 @@
 {
   "name": "kpatch_next",
   "version": "0.0.1",
-  "description": "KPatch-Next-Module WebUI",
+  "description": "XinovaSU-KPatch WebUI",
   "scripts": {
     "dev": "vite",
     "build": "vite build --emptyOutDir"
