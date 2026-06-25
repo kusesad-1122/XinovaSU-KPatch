@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  MODULE_NAME: 'KPatch-Next-Module'
+  MODULE_NAME: 'XinovaSU-KPatch'
   GH_TOKEN: ${{ github.token }}
 
 jobs:

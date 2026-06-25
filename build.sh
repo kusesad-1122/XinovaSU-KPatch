@@ -74,5 +74,5 @@ commit_number=$(git rev-list --count HEAD)
 commit_hash=$(git rev-parse --short HEAD)
 
 cd module
-zip -r ../out/KPatch-Next-${commit_number}-${commit_hash}.zip .
+zip -r ../out/XinovaSU-KPatch-${commit_number}-${commit_hash}.zip .
 cd ..
